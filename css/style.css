@@ -207,8 +207,11 @@ body {
 .Pegawai .jadwal .seragam img {
   width: 100%;
   height: auto;
+  max-height: 200px;
+  object-fit: cover;
   border-bottom: 2px solid #ddd;
   border-radius: 10px 10px 0 0;
+  display: block;
 }
 
 .Pegawai .jadwal .seragam .hari {
@@ -268,9 +271,12 @@ body {
 
 .Magang .jadwal .seragam img {
   width: 100%;
-  height: fit-content;
+  height: auto;
+  max-height: 200px;
+  object-fit: cover;
   border-bottom: 2px solid #ddd;
   border-radius: 10px 10px 0 0;
+  display: block;
 }
 
 .Magang .jadwal .seragam .hari {
