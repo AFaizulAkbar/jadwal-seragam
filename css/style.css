@@ -235,10 +235,6 @@ body {
   line-height: 1.4;
 }
 
-.Pegawai .jadwal .seragam.full {
-  grid-column: span 2;
-}
-
 
 .Magang .judul h1 {
   text-align: center;
