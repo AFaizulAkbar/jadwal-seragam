@@ -35,7 +35,7 @@ header {
     display: block;
     margin: 3px;
     padding: 10px 10px;
-    border: 2px solid #5548c9;
+    background-color:  rgb(72, 56, 221);
     border-radius: 9px;
     width: 25%;
     text-align: center;
@@ -299,3 +299,4 @@ body {
 .Magang .jadwal .seragam.full {
   grid-column: span 2;
 }
+
